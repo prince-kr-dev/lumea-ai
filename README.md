@@ -15,9 +15,7 @@ Lumea Chatbot is a sleek and intelligent AI-powered chatbot interface built usin
 ---
 
 ## 🖼️ Live Demo
-
-> _[Add your deployment link here, e.g., Vercel or Netlify]_  
-> https://lumea-chatbot.vercel.app/
+> [Lumea AI](https://lumea-ai.vercel.app/)
 
 ---
 
