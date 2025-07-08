@@ -3,6 +3,8 @@
 Lumea Chatbot is a sleek and intelligent AI-powered chatbot interface built using **React.js**, styled with **Tailwind CSS**, and powered by **Google’s Gemini API**. It enables users to interact with an AI assistant in a smooth, responsive, and beautiful interface.
 
 ---
+![image](https://github.com/user-attachments/assets/9fda30b2-5f2b-4395-b300-a78cca92d400)
+
 
 ## 🌟 Features
 
